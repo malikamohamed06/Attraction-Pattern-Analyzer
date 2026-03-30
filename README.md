@@ -14,6 +14,7 @@ This project is a C++-based system that analyzes user attraction patterns by com
 The system explores the gap between self-perception and real behavior by analyzing user preferences, past experiences, and scenario-based responses.
 
 ## Team Members
-- [Your Name]
-- [Teammate 1]
-- [Teammate 2]
+- Mleka Shehata
+- Judy Amr
+- Nadia Ahmed
+- Mariam Hamad
